@@ -1,0 +1,2 @@
+ls4_actor_info.py will generate 5 cars with index (0,1,2,3,4) and save the actor inforamtion to actor_info.csv.
+ls4_camera will generate 1 car with a camera. It will show the camera view in the window and same image to the img folder.
